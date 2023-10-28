@@ -1,0 +1,12 @@
+.box{
+    width: 550px;
+    height: 550px;
+    background-color: pink;
+    margin-top: 9px;
+    margin-left: 8px;
+    padding-top: 71px;
+    padding-left: 95px;
+}
+.text{
+    color: red;
+}
